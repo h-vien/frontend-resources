@@ -7,10 +7,8 @@
 3. [CSS](#css)
 4. [Javascript](#javascript)
 5. [ReactJS](#reactjs)
-
-
-
-
+6. [Interview Questions](#interview-questions)
+7. [Learn new stuff](#learn-new-stuff)
 
 ## Introduction
 
@@ -21,6 +19,7 @@ Explore a curated collection of essential Front End development resources, rangi
 ## HTML
 
 ### Accessibility
+
 List of Accessibility websites/pages for HTML
 
 - [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
@@ -28,7 +27,9 @@ List of Accessibility websites/pages for HTML
 - [W3Schools](https://www.w3schools.com/html/html_accessibility.asp)
 
 ### Websites
+
 List of resources for HTML
+
 - [FreeCodeCamp](https://www.freecodecamp.org/news/html-crash-course/)
 - [W3Schools HTML](https://www.w3schools.com/html/)
 - [F8](https://fullstack.edu.vn/courses/html-css) (Vietnamese)
@@ -48,7 +49,7 @@ CSS Animation Libraries
 - [Hover.css](https://ianlunn.github.io/Hover/)
 - [Magic Effects](https://www.minimamente.com/project/magic/)
 
-### Tools 
+### Tools
 
 - [CSS Base](https://nikitahl.github.io/css-base/)
 - [SVG Progress](https://nikitahl.github.io/svg-circle-progress-generator/)
@@ -76,11 +77,20 @@ CSS Animation Libraries
 - [Roadmap](https://victordarras.fr/cssgame/)
 
 ### Preprocessors
+
 List of CSS preprocessors
 
 - [SASS](https://sass-lang.com/)
 - [LESS](http://lesscss.org/)
 - [Stylus](http://stylus-lang.com/)
 
-
 **[⬆ back to top](#table-of-contents)**
+
+## Learn new stuff
+
+| Title                                                | Tag                 | URL                                                                                                                         |
+| ---------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| What Happened to “npm run x”?                        | <code>Webpack</code> | [Link](https://plainenglish.io/blog/interviewer-what-happened-to-npm-run-x-cdcb37dbaf44#2-supplementary-learning-knowledge) |
+| Can sessionStorage Share Data Between Multiple Tabs? | <code>Internet</code> | [Link](https://plainenglish.io/blog/interviewer-can-sesstionstorage-share-data-between-multiple-tabs)                       |
+| Cancel Request and signal abort | <code>Internet</code> | [Link](https://codestus.com/posts/lam-the-nao-de-cancel-request-trong-axios)
+| Check un-used code | <code>NPM</code> | [Link](https://github.com/webpro/knip)
