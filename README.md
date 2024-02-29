@@ -6,7 +6,7 @@
 2. [HTML](#html)
 3. [CSS](#css)
 4. [Javascript](#javascript)
-5. [ReactJS](#reactjs)
+5. [Public API](#public-api)
 6. [Interview Questions](#interview-questions)
 7. [Learn new stuff](#learn-new-stuff)
 
@@ -85,6 +85,47 @@ List of CSS preprocessors
 - [Stylus](http://stylus-lang.com/)
 
 **[⬆ back to top](#table-of-contents)**
+
+## Javascript 
+
+### Chart
+
+List of Resources of JavaScript Charts
+
+- [Chart.js](https://www.chartjs.org/)
+- [D3.js](https://d3js.org/)
+- [Flexmonster](https://www.flexmonster.com/)
+- [Google Charts](https://developers.google.com/chart)
+- [Mafs](https://mafs.dev/) - React Components for Interactive math
+- [React-vis](https://uber.github.io/react-vis/)
+- [three.js](https://threejs.org/)
+
+### Books
+
+List of Books of JavaScript
+
+- ["Eloquent JavaScript" by Marijn Haverbeke](https://eloquentjavascript.net/)
+- ["The Modern JavaScript Tutorial"](https://javascript.info/)
+- ["JavaScript Fundamentals" by DevDocs](https://devdocs.io/javascript-array/)
+
+
+## Public API
+
+Resources of Public API list
+
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+- [Fake Store API](https://fakestoreapi.com/))
+- [Quotes REST API](https://quotes.rest/)
+- [RandomUser](https://randomuser.me/)
+
+
+## Interview Quetions 
+
+
+- [List 1000 javascript interview questions - 21k stars](https://github.com/sudheerj/javascript-interview-questions)
+- [React Interview - 35.6k stars](https://github.com/sudheerj/reactjs-interview-questions)
+- [React interview - 1.8k stars](https://github.com/Pau1fitz/react-interview)
+- [Grind 75](https://www.techinterviewhandbook.org/grind75)
 
 ## Learn new stuff
 
