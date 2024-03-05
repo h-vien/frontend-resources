@@ -7,8 +7,9 @@
 3. [CSS](#css)
 4. [Javascript](#javascript)
 5. [Public API](#public-api)
-6. [Interview Questions](#interview-questions)
-7. [Learn new stuff](#learn-new-stuff)
+6. [Animation Libraries](#animation-libraries)
+7. [Interview Questions](#interview-questions)
+8. [Learn new stuff](#learn-new-stuff)
 
 ## Introduction
 
@@ -117,6 +118,13 @@ Resources of Public API list
 - [Fake Store API](https://fakestoreapi.com/))
 - [Quotes REST API](https://quotes.rest/)
 - [RandomUser](https://randomuser.me/)
+
+
+## Animation Libraries
+
+- [Aceternity UI](https://ui.aceternity.com/)
+- [Frammer motion](https://www.framer.com/motion/animation/)
+- [React Srping](https://www.react-spring.dev/)
 
 
 ## Interview Quetions 
